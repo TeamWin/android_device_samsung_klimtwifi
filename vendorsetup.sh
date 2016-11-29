@@ -1,1 +1,1 @@
-add_lunch_combo omni_klimtwifi-userdebug
+add_lunch_combo omni_klimtwifi-eng
