@@ -15,4 +15,4 @@
 /usb-otg	vfat	/dev/block/sda1 /dev/block/sda		flags=display="USB OTG";storage;wipeingui;removable
 
 # OTA Updates
-/dev/block/platform/dw_mmc.0/by-name/OTA        /misc        emmc      defaults                                                                          defaults
+/misc   emmc  /dev/block/platform/dw_mmc.0/by-name/OTA defaults   defaults
